@@ -7,6 +7,8 @@
 
 <p align="left"> <a href="https://twitter.com/insanodeath" target="blank"><img src="https://img.shields.io/twitter/follow/insanodeath?logo=twitter&style=for-the-badge" alt="insanodeath" /></a> </p>
 
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=InsanoDeath&theme=github_dark" />
+
 - 🔭 I’m currently working on [TruckersHub](https://truckershub.in/)
 
 - 🌱 I’m currently learning **C/C++**
