@@ -21,7 +21,7 @@
 
 - 📫 How to reach me **insanodeathgaming@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/sameer-arora-138673253/](https://www.linkedin.com/in/sameer-arora-138673253/)
+- 📄 Know about my experiences [https://www.linkedin.com/in/sameer-arora-a410332a9/](https://www.linkedin.com/in/sameer-arora-a410332a9/)
 
 - ⚡ Fun fact **I can solve errors quickly!**
 
