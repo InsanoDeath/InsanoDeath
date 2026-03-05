@@ -28,7 +28,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/insanodeath" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="insanodeath" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/sameer-arora-138673253/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sameer-arora-138673253/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/sameer-arora-a410332a9/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sameer-arora-138673253/" height="30" width="40" /></a>
 <a href="https://instagram.com/insanodeathh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="insanodeathh" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/insanodeath" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="insanodeath" height="30" width="40" /></a>
 <a href="https://discord.gg/wvxkkJp6c6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="wvxkkJp6c6" height="30" width="40" /></a>
